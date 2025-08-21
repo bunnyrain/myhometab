@@ -11,14 +11,14 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Reaper',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
+	greetingAfternoon: 'what are you up to now?,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep!',
 
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Trigger Finder',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.lu4.app/triggerfinder.html',
 		},
 		{
 			id: '4',

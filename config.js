@@ -83,18 +83,18 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
+			name: 'TorBox',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://torbox.app/dashboard',
 		},
 		{
 			id: '2',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TorBox',
+					link: 'https://torbox.app/dashboard',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'FMHY',
+					link: 'https://fmhy.net/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CS RIN',
+					link: 'https://cs.rin.ru/forum/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'PGMT',
+					link: 'https://rentry.org/pgames',
 				},
 			],
 		},

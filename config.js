@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Myrient',
+					link: 'https://myrient.mahou.one/',
 				},
 				{
 					name: 'Dribbble',
 					link: 'https://www.dribbble.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Hexa',
+					link: 'https://hexa.watch/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '.',
+					link: 'https://simpcity.cr/',
 				},
 			],
 		},

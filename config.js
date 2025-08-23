@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://myrient.mahou.one/',
 				},
 				{
-					name: 'Bookmarks',
-					link: 'brave://bookmarks/',
+					name: 'Guns.lol',
+					link: 'https://guns.lol/evilleaders',
 				},
 				{
 					name: 'Hexa',

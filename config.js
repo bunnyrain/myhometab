@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://myrient.mahou.one/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Bookmarks',
+					link: 'brave://bookmarks/',
 				},
 				{
 					name: 'Hexa',
